@@ -21,15 +21,15 @@
 
     1. 登入
     
-    > 管理员账号：admin	密码：123456
-    >
-    > 客户账号：zhangsan	密码：123456
+    管理员账号：admin	密码：123456
+    
+    客户账号：zhangsan	密码：123456
     
     2. 运行流程
     
-    >  SpringBoot+Vue项目的部署详情可以查看这篇CSDN博客：http://t.csdnimg.cn/kpuxS
-    >
-    >  前后端不分离项目的部署流程可以查看这篇CSDN博客：http://t.csdnimg.cn/CslA5
+    SpringBoot+Vue项目的部署详情可以查看这篇CSDN博客：http://t.csdnimg.cn/kpuxS
+    
+    前后端不分离项目的部署流程可以查看这篇CSDN博客：http://t.csdnimg.cn/CslA5
 
 #### 项目演示🌞
 
